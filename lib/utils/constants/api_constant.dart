@@ -1,1 +1,3 @@
-const String apiURL = 'https://story-api.dicoding.dev/v1/';
+class ApiConstant {
+  static String apiURL = 'https://story-api.dicoding.dev/v1/';
+}
