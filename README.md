@@ -51,3 +51,14 @@ Story App adalah aplikasi berbagi cerita berbasis **Flutter** yang memungkinkan 
 | **intl** | Localization & multi-bahasa |
 
 ---
+
+## 🌐 Konfigurasi API  
+
+Aplikasi ini menggunakan **Story API Dicoding** sebagai sumber data utama. Dokumentasi resmi API dapat ditemukan di:  
+🔗 [Story API Documentation](https://story-api.dicoding.dev/v1/)  
+
+### 📌 Penting  
+
+⚠ **Token harus disimpan** setelah login karena diperlukan untuk mengakses endpoint lainnya.  
+⚠ Data yang dikirimkan akan **otomatis hilang setelah 1 jam**, sehingga pastikan untuk melakukan request ulang jika data tidak tersedia.  
+⚠ **Jangan gunakan endpoint guest**, karena endpoint tersebut hanya ditujukan untuk latihan dan tidak dapat digunakan dalam aplikasi sebenarnya.  
