@@ -41,14 +41,15 @@ Story App adalah aplikasi berbagi cerita berbasis **Flutter** yang memungkinkan 
 
 | Teknologi       | Deskripsi |
 |----------------|----------|
-| **Flutter** | Framework utama |
-| **Dart** | Bahasa pemrograman |
-| **Provider** | State management |
-| **Dio** | HTTP client untuk komunikasi API |
-| **GoRouter** | Navigasi deklaratif & deep linking |
-| **SharedPreferences** | Penyimpanan sesi lokal |
-| **ImagePicker** | Mengunggah gambar dari kamera/galeri |
-| **intl** | Localization & multi-bahasa |
+| 🏗 **Flutter** | Framework utama untuk pengembangan aplikasi multiplatform (Android, iOS, Web, dan Desktop). |
+| 🎯 **Dart** | Bahasa pemrograman utama untuk Flutter. |
+| 🔄 **Provider** | State management untuk **Auth, API, dan Global State**. |
+| 🚀 **GetX** | State management untuk **UI, Snackbar, BottomSheet, dan Dialog**. |
+| 🌐 **Dio** | HTTP client untuk komunikasi API dengan fitur **Interceptor & FormData**. |
+| 🛤 **GoRouter** | Navigasi deklaratif untuk **Web & Desktop**, mendukung **deep linking**. |
+| 💾 **SharedPreferences** | Penyimpanan sesi pengguna seperti **token login**. |
+| 📸 **ImagePicker** | Mengunggah gambar dari **kamera atau galeri**. |
+| 🌍 **intl** | Mendukung **format tanggal/waktu dan multi-bahasa**. |
 
 ---
 
